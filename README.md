@@ -1,1 +1,1 @@
-# MALWARE, SCANNER, OSINT Suspicious IP Lists
+# MALWARE, SCANNER, OSINT and Suspicious IP Lists
